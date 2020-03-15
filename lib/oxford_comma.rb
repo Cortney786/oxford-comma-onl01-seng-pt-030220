@@ -1,4 +1,4 @@
 def oxford_comma(array)
-array = ["kiwi", "durian"]
+array = ["kiwi"]
   return array
 end
