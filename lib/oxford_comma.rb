@@ -4,6 +4,8 @@ array = "kiwi"
 end
 
 def oxford_comma(array)
-  array << and 
+  array.length == 2 
   return array
 end
+
+
